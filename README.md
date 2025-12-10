@@ -11,6 +11,7 @@ Practical exposure to Agile/Scrum methodologies and proficient use of Git for ve
 JavaScript | TypeScript | Node.js | React | Next.js--
 
 💻Featured Projects 
+
 [Coffe Joy] (https://wiktor-bruy.github.io/webee-project/) A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
 🗣️ Languages
