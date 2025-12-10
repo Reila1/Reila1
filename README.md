@@ -14,9 +14,13 @@ JavaScript | TypeScript | Node.js | React | Next.js--
 [Coffe Joy] (https://wiktor-bruy.github.io/webee-project/) A coffee shop web application created using HTML, CSS, and JavaScript. Implemented features include community subscription, detailed information about the coffee shop, and a modal window.
 
 🗣️ Languages
+
 English: Intermediate
+
 Polish: Begginer
+
 Ukrainian: Native
+
 Russian: Native
 
 📫 How to reach me:
